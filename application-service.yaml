@@ -5,8 +5,9 @@ server:
     key-password: ${SSL_KEY_PASSWORD:changeit}
     key-alias: firmys
     enabled: true
-  port: ${gameservices.current.port}
 gameservices:
+  fuck:
+    you: true
   services:
     CHARACTER: &character
       id: character
