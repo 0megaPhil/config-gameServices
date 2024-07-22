@@ -6,8 +6,6 @@ server:
     key-alias: firmys
     enabled: true
 gameservices:
-  fuck:
-    you: true
   services:
     CHARACTER: &character
       id: character
